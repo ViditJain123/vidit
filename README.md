@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Arbalest](https://github.com/BRL-CAD/arbalest)
 
+- GSOC'24 [BRL-CAD](https://github.com/BRL-CAD/arbalest)
+
 - 👨‍💻 All of my projects are available at [https://github.com/ViditJain123](https://github.com/ViditJain123)
 
 - 📫 How to reach me **workwithvidit@gmail.com**
